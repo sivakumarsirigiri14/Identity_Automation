@@ -90,7 +90,6 @@ public class ValueMyCarAndAboutMyCarPage {
             String actualVal = "";
             String notFoundMsg = getCheckCarNotFoundMessage();
             if(notFoundMsg.contains("Sorry")) {
-                //System.err.println(vehicleList.get(i) + " is not displayed and error is:  " + notFoundMsg);
                 vehDetailsAre = vehicleList.get(i)+ " is not displayed and error is: " + notFoundMsg;
             }
             else{
