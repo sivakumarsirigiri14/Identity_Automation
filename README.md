@@ -2,7 +2,7 @@ Note: Change the browser name from test.properties (src/main/resources) if you w
 
 Running test
 
-Go to TestRunner file (src/test/java/com) under the package com.home.test.runner and Run it Junit
+Go to TestRunner file (src/test/java/com) under the package com.home.tests.runner and Run as Junit
 
 Command line execution: a) Go to the path where the project was downloaded 
 b) type : mvn clean test
